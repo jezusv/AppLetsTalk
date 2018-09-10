@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594019090186",
+    "firebase_url": "https://appletstalk-cb9a0.firebaseio.com",
+    "project_id": "appletstalk-cb9a0",
+    "storage_bucket": "appletstalk-cb9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594019090186:android:4c6527bbe8103be3",
+        "android_client_info": {
+          "package_name": "com.example.jatuncar.appletstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594019090186-2r4ls3kvh1jtj1q4eg1obtc9njsnjoqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jatuncar.appletstalk",
+            "certificate_hash": "c7299091f7efd38250f44fb2ee6831f83f2a3ab1"
+          }
+        },
+        {
+          "client_id": "594019090186-s8ui9tfqlm14mh25jsokou9dcj0eeqc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKMePXSXcradzPjNNxLV1lIjujEJCrgRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594019090186-s8ui9tfqlm14mh25jsokou9dcj0eeqc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
